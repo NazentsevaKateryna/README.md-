@@ -33,6 +33,10 @@
 Ми порівняли алгоритми на частково відсортованих даних (імітація реальних черг):
 <img width="876" height="196" alt="image" src="https://github.com/user-attachments/assets/ad1bede6-1360-4c82-86b9-e5b799af7757" />
 
+📸 Візуалізація даних
+<img width="1037" height="776" alt="image" src="https://github.com/user-attachments/assets/c4cac15e-c915-4723-9a94-73fbcf1418d5" />
+
+
 Структура проєкту
 practice_4.py — головний код експерименту.
 
