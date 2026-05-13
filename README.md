@@ -26,9 +26,12 @@
 1. Склонуйте репозиторій:
    ```bash
    git clone [https://github.com/NazentsevaKateryna/README.md-/edit/main/README.md.git](https://github.com/NazentsevaKateryna/README.md-/edit/main/README.md.git)
+   
    2. Встановіть бібліотеки: 
    Bashpip install psutil pandas scipy matplotlib seaborn
+   
 3. Запустіть основний скрипт:Bashpython practice_4.py
+
 📊 Результати бенчмаркінгу (N=100,000)
 Ми порівняли алгоритми на частково відсортованих даних (імітація реальних черг):
 <img width="876" height="196" alt="image" src="https://github.com/user-attachments/assets/ad1bede6-1360-4c82-86b9-e5b799af7757" />
