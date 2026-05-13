@@ -1,0 +1,541 @@
+Run,Algorithm,Size,Type,Time_sec,Memory_MB,CPU_percent,Status
+1,Quick Sort,10000,random,0.01709789998130873,0.53515625,12.5,Success
+1,Timsort,10000,random,0.0010914000449702144,0.0,0.0,Success
+2,Quick Sort,10000,random,0.01725939998868853,0.015625,12.5,Success
+2,Timsort,10000,random,0.0010858000023290515,0.0,50.0,Success
+3,Quick Sort,10000,random,0.017670500034000725,0.03125,10.0,Success
+3,Timsort,10000,random,0.0010902000358328223,0.0,0.0,Success
+4,Quick Sort,10000,random,0.01660129998344928,0.01953125,12.5,Success
+4,Timsort,10000,random,0.001083900046069175,0.0,0.0,Success
+5,Quick Sort,10000,random,0.01677439996274188,0.0,22.2,Success
+5,Timsort,10000,random,0.0010867000091820955,0.0,0.0,Success
+6,Quick Sort,10000,random,0.01673769997432828,0.0,11.1,Success
+6,Timsort,10000,random,0.0010830999817699194,0.0,0.0,Success
+7,Quick Sort,10000,random,0.0166488999966532,0.0,10.0,Success
+7,Timsort,10000,random,0.0010813999688252807,0.0,0.0,Success
+8,Quick Sort,10000,random,0.017194500018376857,0.00390625,11.1,Success
+8,Timsort,10000,random,0.0010868000099435449,0.0,100.0,Success
+9,Quick Sort,10000,random,0.017144599987659603,0.00390625,7.7,Success
+9,Timsort,10000,random,0.0012457999982871115,0.0,0.0,Success
+10,Quick Sort,10000,random,0.01830820000031963,0.0234375,12.5,Success
+10,Timsort,10000,random,0.0010516999755054712,0.0,0.0,Success
+11,Quick Sort,10000,random,0.017105399980209768,0.0078125,20.0,Success
+11,Timsort,10000,random,0.0011159000569023192,0.0,0.0,Success
+12,Quick Sort,10000,random,0.017011000018101186,0.0,14.3,Success
+12,Timsort,10000,random,0.0011573999654501677,0.0,0.0,Success
+13,Quick Sort,10000,random,0.017094000009819865,0.0,20.0,Success
+13,Timsort,10000,random,0.001122299989219755,0.0,0.0,Success
+14,Quick Sort,10000,random,0.017258800042327493,0.0,8.3,Success
+14,Timsort,10000,random,0.0010934000019915402,0.0,0.0,Success
+15,Quick Sort,10000,random,0.01656999997794628,0.0,16.7,Success
+15,Timsort,10000,random,0.001121399982366711,0.0,0.0,Success
+16,Quick Sort,10000,random,0.016713500022888184,0.0,8.3,Success
+16,Timsort,10000,random,0.001125000009778887,0.0,100.0,Success
+17,Quick Sort,10000,random,0.01701319997664541,0.0390625,14.3,Success
+17,Timsort,10000,random,0.0011223999899812043,0.0,0.0,Success
+18,Quick Sort,10000,random,0.01666349999140948,0.0,16.7,Success
+18,Timsort,10000,random,0.001123199996072799,0.0,0.0,Success
+19,Quick Sort,10000,random,0.016521899960935116,0.0,11.1,Success
+19,Timsort,10000,random,0.0010921999928541481,0.0,50.0,Success
+20,Quick Sort,10000,random,0.01698230003239587,0.08203125,10.0,Success
+20,Timsort,10000,random,0.0011546000023372471,0.0,0.0,Success
+21,Quick Sort,10000,random,0.017427000042516738,0.0,11.1,Success
+21,Timsort,10000,random,0.001124400005210191,0.0,0.0,Success
+22,Quick Sort,10000,random,0.01674970000749454,0.0,16.7,Success
+22,Timsort,10000,random,0.0011381999938748777,0.0,0.0,Success
+23,Quick Sort,10000,random,0.01665609999326989,0.0,12.5,Success
+23,Timsort,10000,random,0.0010874999570660293,0.0,0.0,Success
+24,Quick Sort,10000,random,0.017067399981897324,0.0,11.1,Success
+24,Timsort,10000,random,0.0010840000468306243,0.0,0.0,Success
+25,Quick Sort,10000,random,0.01651079999282956,0.0,11.1,Success
+25,Timsort,10000,random,0.0011211999808438122,0.0,100.0,Success
+26,Quick Sort,10000,random,0.01670800003921613,0.0,8.3,Success
+26,Timsort,10000,random,0.0011323000071570277,0.0,0.0,Success
+27,Quick Sort,10000,random,0.016787400003522635,0.0,14.3,Success
+27,Timsort,10000,random,0.0010879000183194876,0.0,0.0,Success
+28,Quick Sort,10000,random,0.017125399957876652,0.0,9.1,Success
+28,Timsort,10000,random,0.0010952000156976283,0.0,50.0,Success
+29,Quick Sort,10000,random,0.01745749998372048,0.0,9.1,Success
+29,Timsort,10000,random,0.0010948999552056193,0.0,0.0,Success
+30,Quick Sort,10000,random,0.016787000000476837,0.0,12.5,Success
+30,Timsort,10000,random,0.0010935000027529895,0.0,0.0,Success
+1,Quick Sort,10000,partially_sorted,0.012374899990390986,0.0,12.5,Success
+1,Timsort,10000,partially_sorted,0.0002774999593384564,0.0,0.0,Success
+2,Quick Sort,10000,partially_sorted,0.012389499985147268,0.0,25.0,Success
+2,Timsort,10000,partially_sorted,0.00027899997076019645,0.0,0.0,Success
+3,Quick Sort,10000,partially_sorted,0.012267099984455854,0.0,11.1,Success
+3,Timsort,10000,partially_sorted,0.00028009997913613915,0.0,0.0,Success
+4,Quick Sort,10000,partially_sorted,0.012237299990374595,0.0,10.0,Success
+4,Timsort,10000,partially_sorted,0.0002771999570541084,0.0,0.0,Success
+5,Quick Sort,10000,partially_sorted,0.012381100037600845,0.0,20.0,Success
+5,Timsort,10000,partially_sorted,0.00028089998522773385,0.0,0.0,Success
+6,Quick Sort,10000,partially_sorted,0.012411899981088936,0.0,12.5,Success
+6,Timsort,10000,partially_sorted,0.00028740003472194076,0.0,0.0,Success
+7,Quick Sort,10000,partially_sorted,0.01221859996439889,0.0,0.0,Success
+7,Timsort,10000,partially_sorted,0.0002791000297293067,0.0,0.0,Success
+8,Quick Sort,10000,partially_sorted,0.01223509997362271,0.0,50.0,Success
+8,Timsort,10000,partially_sorted,0.00027979997685179114,0.0,0.0,Success
+9,Quick Sort,10000,partially_sorted,0.012384600006043911,0.0,8.3,Success
+9,Timsort,10000,partially_sorted,0.00027760001830756664,0.0,0.0,Success
+10,Quick Sort,10000,partially_sorted,0.012228899984620512,0.0,12.5,Success
+10,Timsort,10000,partially_sorted,0.0002771999570541084,0.0,0.0,Success
+11,Quick Sort,10000,partially_sorted,0.012187200016342103,0.0,25.0,Success
+11,Timsort,10000,partially_sorted,0.00027730001602321863,0.0,0.0,Success
+12,Quick Sort,10000,partially_sorted,0.012350999983027577,0.0,9.1,Success
+12,Timsort,10000,partially_sorted,0.0002783999661915004,0.0,0.0,Success
+13,Quick Sort,10000,partially_sorted,0.012316299951635301,0.0,25.0,Success
+13,Timsort,10000,partially_sorted,0.0003027999773621559,0.0,0.0,Success
+14,Quick Sort,10000,partially_sorted,0.01226920000044629,0.0,33.3,Success
+14,Timsort,10000,partially_sorted,0.00028009997913613915,0.0,0.0,Success
+15,Quick Sort,10000,partially_sorted,0.012377500010188669,0.0,0.0,Success
+15,Timsort,10000,partially_sorted,0.00028000003658235073,0.0,0.0,Success
+16,Quick Sort,10000,partially_sorted,0.012313099985476583,0.0,20.0,Success
+16,Timsort,10000,partially_sorted,0.0002798999776132405,0.0,0.0,Success
+17,Quick Sort,10000,partially_sorted,0.012277200003154576,0.0,12.5,Success
+17,Timsort,10000,partially_sorted,0.0002775000175461173,0.0,0.0,Success
+18,Quick Sort,10000,partially_sorted,0.012287700024899095,0.0,12.5,Success
+18,Timsort,10000,partially_sorted,0.00028029998065903783,0.0,0.0,Success
+19,Quick Sort,10000,partially_sorted,0.012514800007920712,0.0,12.5,Success
+19,Timsort,10000,partially_sorted,0.00027980003505945206,0.0,0.0,Success
+20,Quick Sort,10000,partially_sorted,0.012363300018478185,0.0,12.5,Success
+20,Timsort,10000,partially_sorted,0.00027630000840872526,0.0,0.0,Success
+21,Quick Sort,10000,partially_sorted,0.012512299988884479,0.0,14.3,Success
+21,Timsort,10000,partially_sorted,0.00028009997913613915,0.0,0.0,Success
+22,Quick Sort,10000,partially_sorted,0.012384200002998114,0.0,12.5,Success
+22,Timsort,10000,partially_sorted,0.0002730999840423465,0.0,0.0,Success
+23,Quick Sort,10000,partially_sorted,0.012445100001059473,0.0,0.0,Success
+23,Timsort,10000,partially_sorted,0.00032160000409930944,0.0,33.3,Success
+24,Quick Sort,10000,partially_sorted,0.012397799990139902,0.0,0.0,Success
+24,Timsort,10000,partially_sorted,0.000291300006210804,0.0,0.0,Success
+25,Quick Sort,10000,partially_sorted,0.012601799971889704,0.0,77.8,Success
+25,Timsort,10000,partially_sorted,0.0002818000502884388,0.0,0.0,Success
+26,Quick Sort,10000,partially_sorted,0.012507200008258224,0.0,25.0,Success
+26,Timsort,10000,partially_sorted,0.0003133999998681247,0.0,0.0,Success
+27,Quick Sort,10000,partially_sorted,0.01245579996611923,0.0,14.3,Success
+27,Timsort,10000,partially_sorted,0.0002825999981723726,0.0,0.0,Success
+28,Quick Sort,10000,partially_sorted,0.012559800001326948,0.0,12.5,Success
+28,Timsort,10000,partially_sorted,0.00028200005181133747,0.0,0.0,Success
+29,Quick Sort,10000,partially_sorted,0.012456900032702833,0.0,12.5,Success
+29,Timsort,10000,partially_sorted,0.0002780999639071524,0.0,0.0,Success
+30,Quick Sort,10000,partially_sorted,0.012428499991074204,0.0,20.0,Success
+30,Timsort,10000,partially_sorted,0.00028009997913613915,0.0,0.0,Success
+1,Quick Sort,10000,corrupted,,,,Failed
+1,Timsort,10000,corrupted,,,,Failed
+2,Quick Sort,10000,corrupted,,,,Failed
+2,Timsort,10000,corrupted,,,,Failed
+3,Quick Sort,10000,corrupted,,,,Failed
+3,Timsort,10000,corrupted,,,,Failed
+4,Quick Sort,10000,corrupted,,,,Failed
+4,Timsort,10000,corrupted,,,,Failed
+5,Quick Sort,10000,corrupted,,,,Failed
+5,Timsort,10000,corrupted,,,,Failed
+6,Quick Sort,10000,corrupted,,,,Failed
+6,Timsort,10000,corrupted,,,,Failed
+7,Quick Sort,10000,corrupted,,,,Failed
+7,Timsort,10000,corrupted,,,,Failed
+8,Quick Sort,10000,corrupted,,,,Failed
+8,Timsort,10000,corrupted,,,,Failed
+9,Quick Sort,10000,corrupted,,,,Failed
+9,Timsort,10000,corrupted,,,,Failed
+10,Quick Sort,10000,corrupted,,,,Failed
+10,Timsort,10000,corrupted,,,,Failed
+11,Quick Sort,10000,corrupted,,,,Failed
+11,Timsort,10000,corrupted,,,,Failed
+12,Quick Sort,10000,corrupted,,,,Failed
+12,Timsort,10000,corrupted,,,,Failed
+13,Quick Sort,10000,corrupted,,,,Failed
+13,Timsort,10000,corrupted,,,,Failed
+14,Quick Sort,10000,corrupted,,,,Failed
+14,Timsort,10000,corrupted,,,,Failed
+15,Quick Sort,10000,corrupted,,,,Failed
+15,Timsort,10000,corrupted,,,,Failed
+16,Quick Sort,10000,corrupted,,,,Failed
+16,Timsort,10000,corrupted,,,,Failed
+17,Quick Sort,10000,corrupted,,,,Failed
+17,Timsort,10000,corrupted,,,,Failed
+18,Quick Sort,10000,corrupted,,,,Failed
+18,Timsort,10000,corrupted,,,,Failed
+19,Quick Sort,10000,corrupted,,,,Failed
+19,Timsort,10000,corrupted,,,,Failed
+20,Quick Sort,10000,corrupted,,,,Failed
+20,Timsort,10000,corrupted,,,,Failed
+21,Quick Sort,10000,corrupted,,,,Failed
+21,Timsort,10000,corrupted,,,,Failed
+22,Quick Sort,10000,corrupted,,,,Failed
+22,Timsort,10000,corrupted,,,,Failed
+23,Quick Sort,10000,corrupted,,,,Failed
+23,Timsort,10000,corrupted,,,,Failed
+24,Quick Sort,10000,corrupted,,,,Failed
+24,Timsort,10000,corrupted,,,,Failed
+25,Quick Sort,10000,corrupted,,,,Failed
+25,Timsort,10000,corrupted,,,,Failed
+26,Quick Sort,10000,corrupted,,,,Failed
+26,Timsort,10000,corrupted,,,,Failed
+27,Quick Sort,10000,corrupted,,,,Failed
+27,Timsort,10000,corrupted,,,,Failed
+28,Quick Sort,10000,corrupted,,,,Failed
+28,Timsort,10000,corrupted,,,,Failed
+29,Quick Sort,10000,corrupted,,,,Failed
+29,Timsort,10000,corrupted,,,,Failed
+30,Quick Sort,10000,corrupted,,,,Failed
+30,Timsort,10000,corrupted,,,,Failed
+1,Quick Sort,50000,random,0.12384330003987998,1.6796875,40.9,Success
+1,Timsort,50000,random,0.007530600007157773,0.0546875,0.0,Success
+2,Quick Sort,50000,random,0.09923789999447763,0.01171875,14.6,Success
+2,Timsort,50000,random,0.006658999947831035,0.0,0.0,Success
+3,Quick Sort,50000,random,0.0988130999612622,0.05078125,14.3,Success
+3,Timsort,50000,random,0.0068506000097841024,0.0,0.0,Success
+4,Quick Sort,50000,random,0.10147389996564016,0.0,12.2,Success
+4,Timsort,50000,random,0.0066303000203333795,0.0,33.3,Success
+5,Quick Sort,50000,random,0.1023496999987401,0.0,10.9,Success
+5,Timsort,50000,random,0.006585100025404245,0.0,50.0,Success
+6,Quick Sort,50000,random,0.0975670000188984,0.0078125,12.8,Success
+6,Timsort,50000,random,0.006858100008685142,0.0,0.0,Success
+7,Quick Sort,50000,random,0.09806620003655553,0.0,15.1,Success
+7,Timsort,50000,random,0.00658559997100383,0.0,0.0,Success
+8,Quick Sort,50000,random,0.09820859995670617,0.0,12.0,Success
+8,Timsort,50000,random,0.006854700041003525,0.0,25.0,Success
+9,Quick Sort,50000,random,0.10185519995866343,0.0,11.5,Success
+9,Timsort,50000,random,0.007122299983166158,0.0,0.0,Success
+10,Quick Sort,50000,random,0.10250169999198988,0.0,15.1,Success
+10,Timsort,50000,random,0.006737300020176917,0.0,0.0,Success
+11,Quick Sort,50000,random,0.10109380003996193,0.0,17.9,Success
+11,Timsort,50000,random,0.00687770004151389,0.0,0.0,Success
+12,Quick Sort,50000,random,0.09956360002979636,0.0,12.3,Success
+12,Timsort,50000,random,0.00679910002509132,0.0,0.0,Success
+13,Quick Sort,50000,random,0.10241689998656511,0.0,11.3,Success
+13,Timsort,50000,random,0.006847200042102486,0.0,16.7,Success
+14,Quick Sort,50000,random,0.1009677000110969,0.0,12.2,Success
+14,Timsort,50000,random,0.006856399995740503,0.0,12.5,Success
+15,Quick Sort,50000,random,0.10581269999966025,0.0,14.0,Success
+15,Timsort,50000,random,0.0070115000125952065,0.0,0.0,Success
+16,Quick Sort,50000,random,0.10188859998015687,0.0,12.5,Success
+16,Timsort,50000,random,0.006835000007413328,0.0,10.0,Success
+17,Quick Sort,50000,random,0.10205440002027899,0.0,12.0,Success
+17,Timsort,50000,random,0.006811800005380064,0.0,12.5,Success
+18,Quick Sort,50000,random,0.10150449996581301,0.19921875,22.9,Success
+18,Timsort,50000,random,0.006919800012838095,0.0,9.1,Success
+19,Quick Sort,50000,random,0.10098009998910129,0.0,11.5,Success
+19,Timsort,50000,random,0.006709199980832636,0.0,50.0,Success
+20,Quick Sort,50000,random,0.09792609995929524,0.0,14.8,Success
+20,Timsort,50000,random,0.006716000032611191,0.0,0.0,Success
+21,Quick Sort,50000,random,0.09891080000670627,0.03125,12.2,Success
+21,Timsort,50000,random,0.007078800001181662,0.0859375,14.3,Success
+22,Quick Sort,50000,random,0.10257849999470636,0.13671875,11.8,Success
+22,Timsort,50000,random,0.006790199957322329,0.0,16.7,Success
+23,Quick Sort,50000,random,0.10122050001518801,0.0,11.8,Success
+23,Timsort,50000,random,0.006679599988274276,0.0,33.3,Success
+24,Quick Sort,50000,random,0.10289739997824654,0.515625,12.0,Success
+24,Timsort,50000,random,0.006705900013912469,0.0,25.0,Success
+25,Quick Sort,50000,random,0.10302249999949709,0.03125,12.5,Success
+25,Timsort,50000,random,0.0067906000185757875,0.0,25.0,Success
+26,Quick Sort,50000,random,0.10268949996680021,0.0,13.5,Success
+26,Timsort,50000,random,0.006932099990081042,0.0,20.0,Success
+27,Quick Sort,50000,random,0.10050930001307279,0.0,11.3,Success
+27,Timsort,50000,random,0.006752599962055683,0.0,0.0,Success
+28,Quick Sort,50000,random,0.1017676999908872,0.0078125,12.7,Success
+28,Timsort,50000,random,0.006813999963924289,0.0,0.0,Success
+29,Quick Sort,50000,random,0.09986849996494129,0.0,14.3,Success
+29,Timsort,50000,random,0.006933099997695535,0.0,0.0,Success
+30,Quick Sort,50000,random,0.09846819995436817,0.0,14.9,Success
+30,Timsort,50000,random,0.006902900000568479,0.0,0.0,Success
+1,Quick Sort,50000,partially_sorted,0.07143730000825599,0.0,17.6,Success
+1,Timsort,50000,partially_sorted,0.0016321999719366431,0.0,0.0,Success
+2,Quick Sort,50000,partially_sorted,0.07260300003690645,0.01171875,13.9,Success
+2,Timsort,50000,partially_sorted,0.001589599996805191,0.0,0.0,Success
+3,Quick Sort,50000,partially_sorted,0.07161800004541874,0.0,15.4,Success
+3,Timsort,50000,partially_sorted,0.0016594999469816685,0.0,0.0,Success
+4,Quick Sort,50000,partially_sorted,0.0741965000052005,0.0,13.2,Success
+4,Timsort,50000,partially_sorted,0.001588999992236495,0.0,0.0,Success
+5,Quick Sort,50000,partially_sorted,0.07223819999489933,0.0,15.4,Success
+5,Timsort,50000,partially_sorted,0.0016386000206694007,0.0,0.0,Success
+6,Quick Sort,50000,partially_sorted,0.07228239998221397,0.0,15.2,Success
+6,Timsort,50000,partially_sorted,0.001639000023715198,0.0,0.0,Success
+7,Quick Sort,50000,partially_sorted,0.0720819000271149,0.0,16.7,Success
+7,Timsort,50000,partially_sorted,0.001677999971434474,0.0,0.0,Success
+8,Quick Sort,50000,partially_sorted,0.07309950003400445,0.0,12.9,Success
+8,Timsort,50000,partially_sorted,0.0016350000514648855,0.0,0.0,Success
+9,Quick Sort,50000,partially_sorted,0.07212479994632304,0.0,14.3,Success
+9,Timsort,50000,partially_sorted,0.0016327000339515507,0.0,0.0,Success
+10,Quick Sort,50000,partially_sorted,0.07866289996309206,0.0,16.7,Success
+10,Timsort,50000,partially_sorted,0.001971699995920062,0.0,0.0,Success
+11,Quick Sort,50000,partially_sorted,0.0749055000487715,0.0,16.7,Success
+11,Timsort,50000,partially_sorted,0.0016537000192329288,0.0,0.0,Success
+12,Quick Sort,50000,partially_sorted,0.07164830004330724,0.0,11.4,Success
+12,Timsort,50000,partially_sorted,0.0015944000333547592,0.0,0.0,Success
+13,Quick Sort,50000,partially_sorted,0.07157430000370368,0.0,12.5,Success
+13,Timsort,50000,partially_sorted,0.001622999960090965,0.0,0.0,Success
+14,Quick Sort,50000,partially_sorted,0.07137679995503277,0.0,13.5,Success
+14,Timsort,50000,partially_sorted,0.0016422999906353652,0.0,0.0,Success
+15,Quick Sort,50000,partially_sorted,0.07207019999623299,0.0,12.5,Success
+15,Timsort,50000,partially_sorted,0.0016256000380963087,0.0,0.0,Success
+16,Quick Sort,50000,partially_sorted,0.07164479995844886,0.0,12.5,Success
+16,Timsort,50000,partially_sorted,0.0016210000030696392,0.0,0.0,Success
+17,Quick Sort,50000,partially_sorted,0.07239439996192232,0.0,12.2,Success
+17,Timsort,50000,partially_sorted,0.0015953999827615917,0.0,0.0,Success
+18,Quick Sort,50000,partially_sorted,0.08111299999291077,0.0,24.4,Success
+18,Timsort,50000,partially_sorted,0.002000999986194074,0.0,0.0,Success
+19,Quick Sort,50000,partially_sorted,0.07523079996462911,0.0,17.9,Success
+19,Timsort,50000,partially_sorted,0.0016271000495180488,0.0,0.0,Success
+20,Quick Sort,50000,partially_sorted,0.07441689999541268,0.0,14.6,Success
+20,Timsort,50000,partially_sorted,0.0017800999921746552,0.0,0.0,Success
+21,Quick Sort,50000,partially_sorted,0.07712550001451746,0.0,17.9,Success
+21,Timsort,50000,partially_sorted,0.001851000008173287,0.0,0.0,Success
+22,Quick Sort,50000,partially_sorted,0.08868879999499768,0.0,22.9,Success
+22,Timsort,50000,partially_sorted,0.0019068000256083906,0.0,0.0,Success
+23,Quick Sort,50000,partially_sorted,0.08541600004537031,0.0,19.6,Success
+23,Timsort,50000,partially_sorted,0.0017195999971590936,0.0,0.0,Success
+24,Quick Sort,50000,partially_sorted,0.07672399998409674,0.0,12.5,Success
+24,Timsort,50000,partially_sorted,0.0016831000102683902,0.0,0.0,Success
+25,Quick Sort,50000,partially_sorted,0.07627730001695454,0.0,13.2,Success
+25,Timsort,50000,partially_sorted,0.0016329999780282378,0.0,33.3,Success
+26,Quick Sort,50000,partially_sorted,0.08545680000679567,0.0,31.7,Success
+26,Timsort,50000,partially_sorted,0.001693699974566698,0.0,0.0,Success
+27,Quick Sort,50000,partially_sorted,0.0773940000217408,0.0,15.4,Success
+27,Timsort,50000,partially_sorted,0.0017296000150963664,0.0,0.0,Success
+28,Quick Sort,50000,partially_sorted,0.07585009996546432,0.0,13.9,Success
+28,Timsort,50000,partially_sorted,0.001879399991594255,0.0,0.0,Success
+29,Quick Sort,50000,partially_sorted,0.07439389999490231,0.00390625,12.8,Success
+29,Timsort,50000,partially_sorted,0.0016881999908946455,0.0,0.0,Success
+30,Quick Sort,50000,partially_sorted,0.07279240002389997,0.0,13.9,Success
+30,Timsort,50000,partially_sorted,0.00167859997600317,0.0,0.0,Success
+1,Quick Sort,50000,corrupted,,,,Failed
+1,Timsort,50000,corrupted,,,,Failed
+2,Quick Sort,50000,corrupted,,,,Failed
+2,Timsort,50000,corrupted,,,,Failed
+3,Quick Sort,50000,corrupted,,,,Failed
+3,Timsort,50000,corrupted,,,,Failed
+4,Quick Sort,50000,corrupted,,,,Failed
+4,Timsort,50000,corrupted,,,,Failed
+5,Quick Sort,50000,corrupted,,,,Failed
+5,Timsort,50000,corrupted,,,,Failed
+6,Quick Sort,50000,corrupted,,,,Failed
+6,Timsort,50000,corrupted,,,,Failed
+7,Quick Sort,50000,corrupted,,,,Failed
+7,Timsort,50000,corrupted,,,,Failed
+8,Quick Sort,50000,corrupted,,,,Failed
+8,Timsort,50000,corrupted,,,,Failed
+9,Quick Sort,50000,corrupted,,,,Failed
+9,Timsort,50000,corrupted,,,,Failed
+10,Quick Sort,50000,corrupted,,,,Failed
+10,Timsort,50000,corrupted,,,,Failed
+11,Quick Sort,50000,corrupted,,,,Failed
+11,Timsort,50000,corrupted,,,,Failed
+12,Quick Sort,50000,corrupted,,,,Failed
+12,Timsort,50000,corrupted,,,,Failed
+13,Quick Sort,50000,corrupted,,,,Failed
+13,Timsort,50000,corrupted,,,,Failed
+14,Quick Sort,50000,corrupted,,,,Failed
+14,Timsort,50000,corrupted,,,,Failed
+15,Quick Sort,50000,corrupted,,,,Failed
+15,Timsort,50000,corrupted,,,,Failed
+16,Quick Sort,50000,corrupted,,,,Failed
+16,Timsort,50000,corrupted,,,,Failed
+17,Quick Sort,50000,corrupted,,,,Failed
+17,Timsort,50000,corrupted,,,,Failed
+18,Quick Sort,50000,corrupted,,,,Failed
+18,Timsort,50000,corrupted,,,,Failed
+19,Quick Sort,50000,corrupted,,,,Failed
+19,Timsort,50000,corrupted,,,,Failed
+20,Quick Sort,50000,corrupted,,,,Failed
+20,Timsort,50000,corrupted,,,,Failed
+21,Quick Sort,50000,corrupted,,,,Failed
+21,Timsort,50000,corrupted,,,,Failed
+22,Quick Sort,50000,corrupted,,,,Failed
+22,Timsort,50000,corrupted,,,,Failed
+23,Quick Sort,50000,corrupted,,,,Failed
+23,Timsort,50000,corrupted,,,,Failed
+24,Quick Sort,50000,corrupted,,,,Failed
+24,Timsort,50000,corrupted,,,,Failed
+25,Quick Sort,50000,corrupted,,,,Failed
+25,Timsort,50000,corrupted,,,,Failed
+26,Quick Sort,50000,corrupted,,,,Failed
+26,Timsort,50000,corrupted,,,,Failed
+27,Quick Sort,50000,corrupted,,,,Failed
+27,Timsort,50000,corrupted,,,,Failed
+28,Quick Sort,50000,corrupted,,,,Failed
+28,Timsort,50000,corrupted,,,,Failed
+29,Quick Sort,50000,corrupted,,,,Failed
+29,Timsort,50000,corrupted,,,,Failed
+30,Quick Sort,50000,corrupted,,,,Failed
+30,Timsort,50000,corrupted,,,,Failed
+1,Quick Sort,100000,random,0.2742667999700643,0.734375,28.9,Success
+1,Timsort,100000,random,0.015084999962709844,0.0,16.7,Success
+2,Quick Sort,100000,random,0.2239259000052698,0.0,14.9,Success
+2,Timsort,100000,random,0.014639200002420694,0.3828125,12.5,Success
+3,Quick Sort,100000,random,0.24058340000919998,0.0,14.9,Success
+3,Timsort,100000,random,0.01588900003116578,0.73828125,25.0,Success
+4,Quick Sort,100000,random,0.22007809998467565,0.6171875,12.5,Success
+4,Timsort,100000,random,0.015217199979815632,0.0,10.0,Success
+5,Quick Sort,100000,random,0.2533811000175774,0.24609375,17.5,Success
+5,Timsort,100000,random,0.01628109999001026,0.0,10.0,Success
+6,Quick Sort,100000,random,0.23278269998263568,0.75390625,13.6,Success
+6,Timsort,100000,random,0.014520900032948703,0.0,14.3,Success
+7,Quick Sort,100000,random,0.21785139996791258,0.0,12.1,Success
+7,Timsort,100000,random,0.015366700012236834,0.0,11.1,Success
+8,Quick Sort,100000,random,0.22703629999887198,1.23828125,13.8,Success
+8,Timsort,100000,random,0.014611100021284074,0.0,14.3,Success
+9,Quick Sort,100000,random,0.2169731999747455,0.83984375,14.4,Success
+9,Timsort,100000,random,0.014703499968163669,0.3828125,10.0,Success
+10,Quick Sort,100000,random,0.21642319997772574,0.58203125,15.9,Success
+10,Timsort,100000,random,0.014649600023403764,0.0,10.0,Success
+11,Quick Sort,100000,random,0.21516779996454716,0.015625,14.3,Success
+11,Timsort,100000,random,0.014666499977465719,0.0,12.5,Success
+12,Quick Sort,100000,random,0.22221629996784031,0.0,15.0,Success
+12,Timsort,100000,random,0.015071199974045157,0.76171875,22.2,Success
+13,Quick Sort,100000,random,0.21812640002463013,0.0,12.1,Success
+13,Timsort,100000,random,0.015047499968204647,0.7578125,12.5,Success
+14,Quick Sort,100000,random,0.21264090004842728,0.34765625,12.5,Success
+14,Timsort,100000,random,0.014728200039826334,0.0,25.0,Success
+15,Quick Sort,100000,random,0.21904120000544935,0.0,13.8,Success
+15,Timsort,100000,random,0.02118709997739643,0.0,22.2,Success
+16,Quick Sort,100000,random,0.3323601999436505,0.0,37.6,Success
+16,Timsort,100000,random,0.016887800011318177,1.5234375,11.1,Success
+17,Quick Sort,100000,random,0.29247899999609217,0.40625,29.1,Success
+17,Timsort,100000,random,0.020637000037822872,0.01171875,26.7,Success
+18,Quick Sort,100000,random,0.2344425999908708,0.0,19.0,Success
+18,Timsort,100000,random,0.01601889997255057,0.74609375,16.7,Success
+19,Quick Sort,100000,random,0.21643279999261722,0.0,13.4,Success
+19,Timsort,100000,random,0.015583999978844076,1.3203125,33.3,Success
+20,Quick Sort,100000,random,0.21200450003379956,0.72265625,15.9,Success
+20,Timsort,100000,random,0.014920999994501472,0.0,16.7,Success
+21,Quick Sort,100000,random,0.22961119998944923,0.0,12.8,Success
+21,Timsort,100000,random,0.014763900020625442,0.6796875,14.3,Success
+22,Quick Sort,100000,random,0.24078749999171123,0.58984375,20.8,Success
+22,Timsort,100000,random,0.015577099984511733,0.0,18.2,Success
+23,Quick Sort,100000,random,0.2272577999974601,0.0,14.0,Success
+23,Timsort,100000,random,0.01596270001027733,1.51171875,25.0,Success
+24,Quick Sort,100000,random,0.22390899999300018,0.0,18.5,Success
+24,Timsort,100000,random,0.014541600015945733,0.37890625,25.0,Success
+25,Quick Sort,100000,random,0.22999959997832775,0.0,14.7,Success
+25,Timsort,100000,random,0.017199499998241663,0.75390625,14.3,Success
+26,Quick Sort,100000,random,0.306179000006523,0.0,27.5,Success
+26,Timsort,100000,random,0.0166060000192374,0.3828125,12.5,Success
+27,Quick Sort,100000,random,0.2323352000094019,0.00390625,21.2,Success
+27,Timsort,100000,random,0.020840800018049777,0.0078125,23.5,Success
+28,Quick Sort,100000,random,0.30610990000423044,0.0,27.1,Success
+28,Timsort,100000,random,0.02009649999672547,0.3828125,26.7,Success
+29,Quick Sort,100000,random,0.358364200044889,0.21484375,40.9,Success
+29,Timsort,100000,random,0.01718500000424683,0.0,16.7,Success
+30,Quick Sort,100000,random,0.32000179996248335,0.09765625,36.0,Success
+30,Timsort,100000,random,0.02026959997601807,0.0078125,44.4,Success
+1,Quick Sort,100000,partially_sorted,0.18745749996742234,0.0,20.8,Success
+1,Timsort,100000,partially_sorted,0.0038041999796405435,0.96875,0.0,Success
+2,Quick Sort,100000,partially_sorted,0.17186070000752807,1.453125,19.8,Success
+2,Timsort,100000,partially_sorted,0.00385349994758144,0.00390625,0.0,Success
+3,Quick Sort,100000,partially_sorted,0.16324140003416687,0.0,13.6,Success
+3,Timsort,100000,partially_sorted,0.005714199971407652,0.0,0.0,Success
+4,Quick Sort,100000,partially_sorted,0.17184780002571642,1.03515625,21.6,Success
+4,Timsort,100000,partially_sorted,0.006201699958182871,0.0,0.0,Success
+5,Quick Sort,100000,partially_sorted,0.17995649995282292,0.0,26.4,Success
+5,Timsort,100000,partially_sorted,0.004541400005109608,0.0,0.0,Success
+6,Quick Sort,100000,partially_sorted,0.17781000002287328,0.0,20.8,Success
+6,Timsort,100000,partially_sorted,0.005095599975902587,0.0,0.0,Success
+7,Quick Sort,100000,partially_sorted,0.16943489998811856,0.4375,20.2,Success
+7,Timsort,100000,partially_sorted,0.0034789000055752695,0.0,0.0,Success
+8,Quick Sort,100000,partially_sorted,0.17472499998984858,0.70703125,19.3,Success
+8,Timsort,100000,partially_sorted,0.004318899998907,0.015625,0.0,Success
+9,Quick Sort,100000,partially_sorted,0.1809837000328116,0.0,22.9,Success
+9,Timsort,100000,partially_sorted,0.00357070000609383,0.0,0.0,Success
+10,Quick Sort,100000,partially_sorted,0.20621499995468184,0.30859375,25.7,Success
+10,Timsort,100000,partially_sorted,0.0036306999973021448,0.4609375,0.0,Success
+11,Quick Sort,100000,partially_sorted,0.16626819997327402,1.49609375,15.0,Success
+11,Timsort,100000,partially_sorted,0.0038642000290565193,0.0078125,12.5,Success
+12,Quick Sort,100000,partially_sorted,0.17635089997202158,0.0,23.7,Success
+12,Timsort,100000,partially_sorted,0.005211999989114702,0.0,0.0,Success
+13,Quick Sort,100000,partially_sorted,0.1956452999729663,0.0,28.6,Success
+13,Timsort,100000,partially_sorted,0.0052844000165350735,0.0,50.0,Success
+14,Quick Sort,100000,partially_sorted,0.1755801000399515,0.0,24.7,Success
+14,Timsort,100000,partially_sorted,0.003576099989004433,0.0,0.0,Success
+15,Quick Sort,100000,partially_sorted,0.17299479997018352,0.0,17.9,Success
+15,Timsort,100000,partially_sorted,0.0036303999950177968,0.0,0.0,Success
+16,Quick Sort,100000,partially_sorted,0.15248009999049827,0.0,12.8,Success
+16,Timsort,100000,partially_sorted,0.003448000003118068,0.0,100.0,Success
+17,Quick Sort,100000,partially_sorted,0.15520969999488443,0.0,12.3,Success
+17,Timsort,100000,partially_sorted,0.003532300004735589,0.0,0.0,Success
+18,Quick Sort,100000,partially_sorted,0.17455220001284033,0.0,32.3,Success
+18,Timsort,100000,partially_sorted,0.00454399996669963,0.0,0.0,Success
+19,Quick Sort,100000,partially_sorted,0.15438480000011623,0.0,12.3,Success
+19,Timsort,100000,partially_sorted,0.0035044000251218677,0.0,0.0,Success
+20,Quick Sort,100000,partially_sorted,0.15367129998048767,0.0,12.7,Success
+20,Timsort,100000,partially_sorted,0.0035445999819785357,0.0,0.0,Success
+21,Quick Sort,100000,partially_sorted,0.15316340001299977,0.0,14.5,Success
+21,Timsort,100000,partially_sorted,0.003515699994750321,0.0,0.0,Success
+22,Quick Sort,100000,partially_sorted,0.15211319999070838,0.0,12.8,Success
+22,Timsort,100000,partially_sorted,0.0034908000379800797,0.0,0.0,Success
+23,Quick Sort,100000,partially_sorted,0.1547355999937281,0.0,13.9,Success
+23,Timsort,100000,partially_sorted,0.0035525999846868217,0.0,0.0,Success
+24,Quick Sort,100000,partially_sorted,0.15365140000358224,0.0,13.6,Success
+24,Timsort,100000,partially_sorted,0.0034969999687746167,0.0,33.3,Success
+25,Quick Sort,100000,partially_sorted,0.1562798999948427,0.0,12.5,Success
+25,Timsort,100000,partially_sorted,0.0038403000216931105,0.0,0.0,Success
+26,Quick Sort,100000,partially_sorted,0.154467599990312,0.0,14.5,Success
+26,Timsort,100000,partially_sorted,0.004072299983818084,0.0,0.0,Success
+27,Quick Sort,100000,partially_sorted,0.17557449999731034,0.0,22.5,Success
+27,Timsort,100000,partially_sorted,0.004717600008007139,0.0,0.0,Success
+28,Quick Sort,100000,partially_sorted,0.15869830001611263,0.0,14.5,Success
+28,Timsort,100000,partially_sorted,0.0035641000140458345,0.0,33.3,Success
+29,Quick Sort,100000,partially_sorted,0.170975900022313,0.0,23.5,Success
+29,Timsort,100000,partially_sorted,0.004045900015626103,0.01953125,0.0,Success
+30,Quick Sort,100000,partially_sorted,0.17074470000807196,0.359375,20.0,Success
+30,Timsort,100000,partially_sorted,0.0035286000347696245,0.0,0.0,Success
+1,Quick Sort,100000,corrupted,,,,Failed
+1,Timsort,100000,corrupted,,,,Failed
+2,Quick Sort,100000,corrupted,,,,Failed
+2,Timsort,100000,corrupted,,,,Failed
+3,Quick Sort,100000,corrupted,,,,Failed
+3,Timsort,100000,corrupted,,,,Failed
+4,Quick Sort,100000,corrupted,,,,Failed
+4,Timsort,100000,corrupted,,,,Failed
+5,Quick Sort,100000,corrupted,,,,Failed
+5,Timsort,100000,corrupted,,,,Failed
+6,Quick Sort,100000,corrupted,,,,Failed
+6,Timsort,100000,corrupted,,,,Failed
+7,Quick Sort,100000,corrupted,,,,Failed
+7,Timsort,100000,corrupted,,,,Failed
+8,Quick Sort,100000,corrupted,,,,Failed
+8,Timsort,100000,corrupted,,,,Failed
+9,Quick Sort,100000,corrupted,,,,Failed
+9,Timsort,100000,corrupted,,,,Failed
+10,Quick Sort,100000,corrupted,,,,Failed
+10,Timsort,100000,corrupted,,,,Failed
+11,Quick Sort,100000,corrupted,,,,Failed
+11,Timsort,100000,corrupted,,,,Failed
+12,Quick Sort,100000,corrupted,,,,Failed
+12,Timsort,100000,corrupted,,,,Failed
+13,Quick Sort,100000,corrupted,,,,Failed
+13,Timsort,100000,corrupted,,,,Failed
+14,Quick Sort,100000,corrupted,,,,Failed
+14,Timsort,100000,corrupted,,,,Failed
+15,Quick Sort,100000,corrupted,,,,Failed
+15,Timsort,100000,corrupted,,,,Failed
+16,Quick Sort,100000,corrupted,,,,Failed
+16,Timsort,100000,corrupted,,,,Failed
+17,Quick Sort,100000,corrupted,,,,Failed
+17,Timsort,100000,corrupted,,,,Failed
+18,Quick Sort,100000,corrupted,,,,Failed
+18,Timsort,100000,corrupted,,,,Failed
+19,Quick Sort,100000,corrupted,,,,Failed
+19,Timsort,100000,corrupted,,,,Failed
+20,Quick Sort,100000,corrupted,,,,Failed
+20,Timsort,100000,corrupted,,,,Failed
+21,Quick Sort,100000,corrupted,,,,Failed
+21,Timsort,100000,corrupted,,,,Failed
+22,Quick Sort,100000,corrupted,,,,Failed
+22,Timsort,100000,corrupted,,,,Failed
+23,Quick Sort,100000,corrupted,,,,Failed
+23,Timsort,100000,corrupted,,,,Failed
+24,Quick Sort,100000,corrupted,,,,Failed
+24,Timsort,100000,corrupted,,,,Failed
+25,Quick Sort,100000,corrupted,,,,Failed
+25,Timsort,100000,corrupted,,,,Failed
+26,Quick Sort,100000,corrupted,,,,Failed
+26,Timsort,100000,corrupted,,,,Failed
+27,Quick Sort,100000,corrupted,,,,Failed
+27,Timsort,100000,corrupted,,,,Failed
+28,Quick Sort,100000,corrupted,,,,Failed
+28,Timsort,100000,corrupted,,,,Failed
+29,Quick Sort,100000,corrupted,,,,Failed
+29,Timsort,100000,corrupted,,,,Failed
+30,Quick Sort,100000,corrupted,,,,Failed
+30,Timsort,100000,corrupted,,,,Failed
